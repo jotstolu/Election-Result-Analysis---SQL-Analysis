@@ -34,3 +34,4 @@ For the state of Maharashtra:
 - Breakdown of **EVM** and **postal votes**.
 
 ## Entity Relationship Diagram (ERD)
+![Screenshot 2024-12-29 070435](https://github.com/user-attachments/assets/201bfd17-ccd3-4b51-ab16-8b5d5504665a)
