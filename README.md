@@ -1,4 +1,4 @@
-# 2024 India General Election - Result Analysis
+# 2024 India General Election Result Analysis
 
 This project provides an SQL-based analysis of the 2024 India General Election results. The data is categorized at state, constituency, and party levels to deliver comprehensive insights into the election outcomes. The goal of this analysis is to answer critical problem statements related to the election results, helping uncover key performances
 
